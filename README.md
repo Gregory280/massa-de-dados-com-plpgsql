@@ -22,5 +22,6 @@ O objetivo é aplicar técnicas de programação em banco de dados com SQL e tor
   * Sale_date
 
 ## Atualizações
-- Foi adicionado um fator randômico para embaralhar a ordem de inserção das interações realizadas pelos clientes
-- Criação de uma function para calcular o valor total de vendas realizadas para determinado cliente
+- Foi adicionado um fator randômico para embaralhar a ordem de inserção das interações realizadas pelos clientes.
+- Criação de uma function para calcular o valor total de vendas realizadas para determinado cliente.
+- Criação de uma função para gerar relatório de vendas a partir da quantidade de dias desejada.
